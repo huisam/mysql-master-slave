@@ -128,3 +128,7 @@ show databases;
 
 정상적으로 뜬 것이 확인되면 모든 설정은 끝났습니다! 😄
 
+### 참고 링크
+
+* [docker-compsoe로 띄워보기](https://www.programmersought.com/article/40905161651/#dockercomposeyml_33)
+* [caching_sha2_password 이슈](https://kogle.tistory.com/87)
